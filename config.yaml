@@ -1,0 +1,20 @@
+# Detection configuration
+sample_rate: 16000           # Hz
+window_seconds: 0.96         # YAMNet recommended
+hop_seconds: 0.48
+prob_threshold: 0.45         # trigger prob threshold for 'scream/shout/argument' bucket
+consecutive_windows: 3       # K windows to confirm
+cooldown_seconds: 120        # no re-triggering during cooldown
+
+# Operation modes
+night_quiet_hours: [22, 7]   # from 22:00 to 07:00 -> push-only in future; for MVP we just lower volume
+night_volume_scale: 0.4
+
+# Playback
+play_minutes: 12
+fade_in_ms: 3000
+fade_out_ms: 2000
+target_bpm_hint: "60-80"     # informational only
+
+# Paths
+calm_tracks_dir: "./calm_tracks"
